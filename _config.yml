@@ -1,0 +1,32 @@
+title: Abu Obaida
+description: Ph.D., Florida International University, Miami, FL
+
+url: https://summonersrift.github.com.io
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: <img class="img-circle" src="/assets/img/profile_picture_2018.jpg" alt=""/>
+   url: /index.html
+ - title: Abu Obaida
+   url: /index.html
+ - title: PROJECTS
+   url: /projects
+ - title: RESEARCH
+   url: /research
+ - title: BLOG
+   url: /blogs
+ - title: GitHub
+   url: https://github.com/summonersrift
+
+social:
+   github: summonersrift
+   email: mobai001@gmail.com
+
+google_analytics: "UA-58263416-1"
