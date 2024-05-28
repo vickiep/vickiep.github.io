@@ -1,7 +1,7 @@
-title: Abu Obaida
-description: Ph.D., Florida International University, Miami, FL
+title: Vickie Poynter's blog 
+description: Vickie from Greenwood, Indiana
 
-url: https://summonersrift.github.com.io
+url: https://vickiep.github.com.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -14,19 +14,19 @@ paginate: 5
 navigation:
  - title: <img class="img-circle" src="/assets/img/profile_picture_2018.jpg" alt=""/>
    url: /index.html
- - title: Abu Obaida
+ - title: Vickie Poynter Homepage
    url: /index.html
- - title: PROJECTS
-   url: /projects
- - title: RESEARCH
-   url: /research
+ - title: Shared-By-Neighbors
+   url: /neighbors
+ - title: Documents
+   url: /documents
  - title: BLOG
    url: /blogs
  - title: GitHub
-   url: https://github.com/summonersrift
+   url: https://github.com/vickiep
 
 social:
-   github: summonersrift
-   email: mobai001@gmail.com
+   github: vickiep
+   email: poynterv@sbcglobal.net
 
 google_analytics: "UA-58263416-1"
