@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Obaida
+title: Contact Vickie
 ---
 
 <div id ="contactme">
@@ -10,7 +10,7 @@ title: Contact Obaida
 
 <p class="intro">Feel free to shoot me an email. </p>
 
-<form action="http://formspree.io/obaida007@gmail.com" method="POST">
+<form action="http://formspree.io/Vickie007@gmail.com" method="POST">
       <label for="name">Name</label>
       <input type="text" id="name" name="name" class="full-width"><br>
       <label for="email">Email Address</label>

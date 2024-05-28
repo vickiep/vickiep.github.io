@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects | Obaida
+title: Projects | Vickie
 ---
 
 <div id="reachout">

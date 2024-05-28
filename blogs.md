@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Obaida Blogs
+title: Vickie Blogs
 ---
 
 <div id="blogs">

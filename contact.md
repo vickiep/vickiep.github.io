@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Contact Obaida
+title: Contact Vickie
 ---
 
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
     <p class="intro">Feel free to shoot me an email. <br>
-      Email me:  <a href="mailto:obaida007@gmail.com">click here</a>. <br>
+      Email me:  <a href="mailto:poynterv@sbcglobal.net">click here</a>. <br>
     </p>
   </div>
 </div>
-    <form action="http://formspree.io/obaida007@gmail.com" method="POST">
+    <form action="http://formspree.io/poynterv@sbcglobal.net" method="POST">
       <label for="name">Name</label>    
       <input type="text" id="name" name="name" class="full-width"><br>
       <label for="email">Email Address</label>

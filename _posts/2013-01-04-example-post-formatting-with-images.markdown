@@ -116,8 +116,8 @@ example: ruby, bash, cpp, etc.
 def print_hi(name)
   puts "Hi, #{name}"
 end
-print_hi('Obaida')
-#=> prints 'Hi, Obaida' to STDOUT.
+print_hi('Vickie')
+#=> prints 'Hi, Vickie' to STDOUT.
 {% endhighlight %}
 
 
