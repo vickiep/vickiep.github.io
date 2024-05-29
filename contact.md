@@ -10,6 +10,8 @@ title: Contact Vickie
       <br>
       Call me at: 317-605-4466.
       <br>
+      <h3>Send Me a message-</h3>
+        {% include contact.html %}
     </p>
   </div>
 </div>
