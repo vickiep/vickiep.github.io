@@ -14,16 +14,14 @@ paginate: 5
 navigation:
  - title: <img class="img-circle" src="/assets/img/profile_picture_2018.jpg" alt=""/>
    url: /index.html
- - title: Vickie Poynter Homepage
+ - title: Home
    url: /index.html
  - title: Shared-By-Neighbors
    url: /neighbors
  - title: Documents
    url: /documents
- - title: BLOG
+ - title: Blogs
    url: /blogs
- - title: GitHub
-   url: https://github.com/vickiep
 
 social:
    github: vickiep

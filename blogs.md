@@ -5,7 +5,7 @@ title: Vickie Blogs
 
 <div id="blogs">
 
-  <h3>Recent Articles</h3>
+  <h3>Recent Posts</h3>
   <ul class="posts noList">
     {% for post in site.posts %}
       <li>
