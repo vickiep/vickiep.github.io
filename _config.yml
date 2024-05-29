@@ -22,6 +22,8 @@ navigation:
    url: /documents
  - title: Blogs
    url: /blogs
+ - title: Contact Me
+   url: /contact
 
 social:
    github: vickiep
