@@ -7,9 +7,7 @@ title: neighbors | Vickie
 <h3>Shared By Neighbors</h3>
 
 
-
-TODO add item
-
+No entries yet, will be added in future.
 
 
 

@@ -16,12 +16,12 @@ navigation:
    url: /index.html
  - title: Home
    url: /index.html
+ - title: Blogs
+   url: /blogs
  - title: Shared-By-Neighbors
    url: /neighbors
  - title: Documents
    url: /documents
- - title: Blogs
-   url: /blogs
  - title: Contact Me
    url: /contact
 
