@@ -5,7 +5,7 @@ title: Vickie Blogs
 
 <div id="blogs">
 
-  <h3>Recent Posts</h3>
+  <h3>Recent Posts, click on title to open</h3>
   <ul class="posts noList">
     {% for post in site.posts %}
       <li>
@@ -15,9 +15,4 @@ title: Vickie Blogs
       </li>
     {% endfor %}
   </ul>
-
-
-   <p>
-      Thats all. Help someone if you find anything helpful here. </p>
-
 </div>
